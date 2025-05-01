@@ -45,9 +45,9 @@ export default function HomePage() {
           Let's collaborate to shape a smarter, tech-powered future. Reach out today.
         </p>
         <div className="flex justify-center gap-6">
-          <a href="mailto:hello@reymentos.com"><Mail className="w-6 h-6" /></a>
-          <a href="https://linkedin.com" target="_blank"><Linkedin className="w-6 h-6" /></a>
-          <a href="https://github.com" target="_blank"><Github className="w-6 h-6" /></a>
+          <a href="mailto:prakashpillay@hotmail.com"><Mail className="w-6 h-6" /></a>
+          <a href="https://www.linkedin.com/in/prakashpillay/" target="_blank"><Linkedin className="w-6 h-6" /></a>
+          <a href="https://github.com/prakashpillay/" target="_blank"><Github className="w-6 h-6" /></a>
         </div>
       </section>
 
